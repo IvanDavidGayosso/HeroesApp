@@ -36,7 +36,7 @@ export const HeroScreen = ({ history }) => {
             <div className="row mt-5">
                 <div className="col-4">
                     <img 
-                        src={`../heroesApp/assets/heroes/${ heroId }.jpg`}
+                        src={`../HeroesApp/assets/heroes/${ heroId }.jpg`}
                         className="img-thumbnail animate__animated animate__fadeInLeft"
                         alt={ superhero }
                     />
